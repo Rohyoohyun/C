@@ -26,6 +26,5 @@ int main() {
     char res[20];
     scanf("%d", &n);
     printf("%s", func(n, res));
-
     return 0;
 }
