@@ -11,7 +11,7 @@ int main() {
     int n, cnt = 0;
     scanf("%d", &n);
 
-    int arr[101]; // 자연수 저장
+    int arr[101]; // 자연수 저장 
     for (int i=0; i<n; i++)
         scanf("%d", &arr[i]);
     
